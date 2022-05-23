@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sohelag/static/css/main.f9e76712.css",
+    "main.js": "/sohelag/static/js/main.6725d61c.js",
+    "static/js/787.d65e6124.chunk.js": "/sohelag/static/js/787.d65e6124.chunk.js",
+    "static/media/logo.svg": "/sohelag/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sohelag/index.html",
+    "main.f9e76712.css.map": "/sohelag/static/css/main.f9e76712.css.map",
+    "main.6725d61c.js.map": "/sohelag/static/js/main.6725d61c.js.map",
+    "787.d65e6124.chunk.js.map": "/sohelag/static/js/787.d65e6124.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9e76712.css",
+    "static/js/main.6725d61c.js"
+  ]
+}
